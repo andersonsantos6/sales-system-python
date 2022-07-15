@@ -1,7 +1,7 @@
 # VADAG - Sistema de Vendas
 <p><b>Análise de Requisitos</b>
 
-V.A.D.A.G é um sistema de vendas que terá como principal foco, um melhor atendimento aos clientes. 
+<b>V.A.D.A.G</b> é um sistema de vendas que terá como principal foco, um melhor atendimento aos clientes. 
 
 Um sistema esquematizado para o uso de usuários autorizados (COM ACESSO), diante disto, teremos os funcionários e gerência. Eles terão acesso maior, a partir de dados do cliente até ao estoque da empresa. Os últimos fornecimentos, serão encontrados na aba da gerência, tendo assim, um controle e base dos fornecedores participantes.
 </p>
@@ -57,8 +57,12 @@ Funções: ver dados /imprimir.
 <p><b>Modelo Lógico</b><br>
 <img src="https://user-images.githubusercontent.com/99498850/179230624-0b9b911e-d98f-4c79-97c4-0190d892c7ac.png">
 </p>
-<p></p>
-<p></p>
+<p><b>Diagrama de Uso</b><br>
+<img src="https://user-images.githubusercontent.com/99498850/179231934-0e65dec4-6989-4d67-bc00-36919f68efbb.PNG">
+</p>
+<p><b>Imagens do Algoritimo</b><br>
+<img src="https://user-images.githubusercontent.com/99498850/179236339-40f71c1a-de1b-4f8b-9ce5-ed2d05c9edbf.gif">
+</p>
 <p></p>
 <p></p>
 <p></p>
