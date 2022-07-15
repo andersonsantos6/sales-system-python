@@ -3,7 +3,9 @@
 
 <b>V.A.D.A.G</b> é um sistema de vendas que terá como principal foco, um melhor atendimento aos clientes. 
 
-Um sistema esquematizado para o uso de usuários autorizados (COM ACESSO), diante disto, teremos os funcionários e gerência. Eles terão acesso maior, a partir de dados do cliente até ao estoque da empresa. Os últimos fornecimentos, serão encontrados na aba da gerência, tendo assim, um controle e base dos fornecedores participantes.
+Um sistema esquematizado para o uso de usuários autorizados, diante disto, teremos os funcionários e gerência. Eles terão acesso maior, desde dados do cliente, até ao estoque da empresa. Os últimos fornecimentos, serão encontrados na aba da gerência, tendo assim, um controle e base dos fornecedores participantes.
+
+<br><i>Neste projeto foi utilizado a Linguagem de Programação Python com SGBD MySql, além de estudos teóricos como cardinalidade, levantamento de requisitos, lógica de programação, boas práticas e ética profissional.</i>
 </p>
 
 <p><b>Relatório</b>
