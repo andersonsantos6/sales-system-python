@@ -51,7 +51,12 @@ Funções: adicionar/imprimir.
 No relatório, serão informados ao usuário, os produtos mais vendidos e menos vendidos, também irá mostrar, quanto o usuário faturou no mês e quais funcionarios obtiveram o melhor desempenho. 
 Funções: ver dados /imprimir.
 </p>
-<p></p>
+<p><b>Modelo Conceitual</b><br>
+<img src="https://user-images.githubusercontent.com/99498850/179229177-17f295dd-23cd-46a1-8fc8-f6e5f4b0c1f3.png">
+</p>
+<p><b>Modelo Lógico</b><br>
+<img src="https://user-images.githubusercontent.com/99498850/179230624-0b9b911e-d98f-4c79-97c4-0190d892c7ac.png">
+</p>
 <p></p>
 <p></p>
 <p></p>
