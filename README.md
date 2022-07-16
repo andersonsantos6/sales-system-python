@@ -13,7 +13,7 @@
 </il>
 
 <h2>✅ Análise de Requisitos</h2>
-Os usuários autorizados funcionários e gerência, terão acesso desde dados do cliente, até o estoque da empresa. Os últimos fornecimentos, serão encontrados na aba da gerência, tendo assim, um controle e informações dos fornecedores.
+AS ENTIDADES funcionário e gerência, terão acesso desde dados do cliente, até o estoque da empresa. Dados relacionados ao fornecimento de produtos serão encontrados na aba da gerência, disponibilizando assim, informações dos fornecedores.
 <h2>🛠️ Tecnologias</h2>
 <p>Neste projeto foi utilizado a Linguagem de Programação Python com SGBD MySql, além de estudos teóricos como cardinalidade, levantamento de requisitos, lógica de programação, boas práticas e ética profissional.</p>
 
@@ -23,7 +23,7 @@ Os usuários autorizados funcionários e gerência, terão acesso desde dados do
 Visando manter a melhor comunicação entre o cliente e vendedor,a Loja Big_System deseja criar um sistema para esse atendimento:
 
 <b>Funcionário</b><br>
-O sistema funcionário, servirá para os usuários cadastrarem seus dados para terem acesso restrito ao sistema, e com isso o usuário poderar logar no sistema e terá acessos às funções do sistema podendo ter restrições nas funções dependendo do seu nível administrativo.
+Sistema funcionário, servirá para os usuários cadastrarem seus dados para terem acesso restrito ao sistema, e com isso o usuário poderá logar no sistema e terá acessos à determinadas funções dependendo do seu nível administrativo.
 Funções: logar/listar/excluir/editar.
 </p>
 
