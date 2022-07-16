@@ -1,14 +1,24 @@
 # VADAG - Sistema de Vendas
-<p><b>Análise de Requisitos</b>
 
-<b>V.A.D.A.G</b> é um sistema de vendas que terá como principal foco, um melhor atendimento aos clientes. 
+<h2>ℹ Sobre o Projeto</h2>
+ <b>V.A.D.A.G</b> é um projeto acadêmico desenvolvido durante o curso de Programação de Sistemas do SENAC em parceria com governo do estado da Bahia, por meio do programa Educar para Trabalhar edição 2021.
+ 
+ <h3>👨‍🎓 Alunos</h3>
+ <ul>
+ <li>Anderson Rodrigues de Oliveira Santos</li>
+ <li>Arianne Suelen de Oliveira Moreira</li>
+ <li>Guilherme de Jesus dos Santos</li>
+  <li>Karlos Daniel de Souza Almeida</li>
+  <li>Valter Andrade Santana Júnior</li>
+</il>
 
+<h2>✅ Análise de Requisitos</h2>
 Um sistema esquematizado para o uso de usuários autorizados, diante disto, teremos os funcionários e gerência. Eles terão acesso maior, desde dados do cliente, até ao estoque da empresa. Os últimos fornecimentos, serão encontrados na aba da gerência, tendo assim, um controle e base dos fornecedores participantes.
 
 <br><i>Neste projeto foi utilizado a Linguagem de Programação Python com SGBD MySql, além de estudos teóricos como cardinalidade, levantamento de requisitos, lógica de programação, boas práticas e ética profissional.</i>
-</p>
 
-<p><b>Relatório</b>
+
+<h2>🗂️ Relatório</h2><p>
 
 Visando manter a melhor comunicação entre o cliente e vendedor,a Loja Big_System deseja criar um sistema para esse atendimento:
 
@@ -53,16 +63,20 @@ Funções: adicionar/imprimir.
 No relatório, serão informados ao usuário, os produtos mais vendidos e menos vendidos, também irá mostrar, quanto o usuário faturou no mês e quais funcionarios obtiveram o melhor desempenho. 
 Funções: ver dados /imprimir.
 </p>
-<p><b>Modelo Conceitual</b><br>
+<h2>📌 Modelo Conceitual</h2>
+ <p>
 <img src="https://user-images.githubusercontent.com/99498850/179229177-17f295dd-23cd-46a1-8fc8-f6e5f4b0c1f3.png">
 </p>
-<p><b>Modelo Lógico</b><br>
+<h2>📌 Modelo Lógico</h2>
+ <p>
 <img src="https://user-images.githubusercontent.com/99498850/179230624-0b9b911e-d98f-4c79-97c4-0190d892c7ac.png">
 </p>
-<p><b>Diagrama de Uso</b><br>
+<h2>📌 Diagrama de Uso</h2>
+ <p>
 <img src="https://user-images.githubusercontent.com/99498850/179231934-0e65dec4-6989-4d67-bc00-36919f68efbb.PNG">
 </p>
-<p><b>Imagens do Algoritimo</b><br>
+<h2>📌 Imagens do Algoritimo</h2>
+<p>
 <img src="https://user-images.githubusercontent.com/99498850/179236339-40f71c1a-de1b-4f8b-9ce5-ed2d05c9edbf.gif">
 </p>
 <p></p>
