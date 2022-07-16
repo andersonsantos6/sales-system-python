@@ -14,8 +14,8 @@
 
 <h2>✅ Análise de Requisitos</h2>
 Um sistema esquematizado para o uso de usuários autorizados, diante disto, teremos os funcionários e gerência. Eles terão acesso maior, desde dados do cliente, até ao estoque da empresa. Os últimos fornecimentos, serão encontrados na aba da gerência, tendo assim, um controle e base dos fornecedores participantes.
-
-<br><i>Neste projeto foi utilizado a Linguagem de Programação Python com SGBD MySql, além de estudos teóricos como cardinalidade, levantamento de requisitos, lógica de programação, boas práticas e ética profissional.</i>
+<h2>🛠️ Tecnologias</h2>
+<p>Neste projeto foi utilizado a Linguagem de Programação Python com SGBD MySql, além de estudos teóricos como cardinalidade, levantamento de requisitos, lógica de programação, boas práticas e ética profissional.</p>
 
 
 <h2>🗂️ Relatório</h2><p>
@@ -24,7 +24,7 @@ Visando manter a melhor comunicação entre o cliente e vendedor,a Loja Big_Syst
 
 <b>Funcionário</b><br>
 O sistema funcionário, servirá para os usuários cadastrarem seus dados para terem acesso restrito ao sistema, e com isso o usuário poderar logar no sistema e terá acessos às funções do sistema podendo ter restrições nas funções dependendo do seu nível administrativo.
-Funções: logar/listar/excluir/editar. 
+Funções: logar/listar/excluir/editar.
 </p>
 
 <p><b>Cargo</b><br>
@@ -79,11 +79,3 @@ Funções: ver dados /imprimir.
 <p>
 <img src="https://user-images.githubusercontent.com/99498850/179236339-40f71c1a-de1b-4f8b-9ce5-ed2d05c9edbf.gif">
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-
