@@ -13,7 +13,7 @@
 </il>
 
 <h2>✅ Análise de Requisitos</h2>
-Um sistema esquematizado para o uso de usuários autorizados, diante disto, teremos os funcionários e gerência. Eles terão acesso maior, desde dados do cliente, até ao estoque da empresa. Os últimos fornecimentos, serão encontrados na aba da gerência, tendo assim, um controle e base dos fornecedores participantes.
+Os usuários autorizados funcionários e gerência, terão acesso desde dados do cliente, até o estoque da empresa. Os últimos fornecimentos, serão encontrados na aba da gerência, tendo assim, um controle e informações dos fornecedores.
 <h2>🛠️ Tecnologias</h2>
 <p>Neste projeto foi utilizado a Linguagem de Programação Python com SGBD MySql, além de estudos teóricos como cardinalidade, levantamento de requisitos, lógica de programação, boas práticas e ética profissional.</p>
 
