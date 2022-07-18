@@ -1,4 +1,4 @@
-# VADAG - Sistema de Vendas
+<h1 align="center">🛒 VADAG - Sistema de Vendas</h1>
 
 <h2>ℹ Sobre o Projeto</h2>
  <b>V.A.D.A.G</b> é um projeto acadêmico desenvolvido durante o curso de Programação de Sistemas do SENAC em parceria com governo do estado da Bahia, por meio do programa Educar para Trabalhar edição 2021.
