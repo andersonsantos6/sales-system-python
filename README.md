@@ -11,16 +11,13 @@
   <li>Karlos Daniel de Souza Almeida</li>
   <li>Valter Andrade Santana Júnior</li>
 </il>
-
-<h2>✅ Análise de Requisitos</h2>
-AS ENTIDADES funcionário e gerência, terão acesso desde dados do cliente, até o estoque da empresa. Dados relacionados ao fornecimento de produtos serão encontrados na aba da gerência, disponibilizando assim, informações dos fornecedores.
 <h2>🛠️ Tecnologias</h2>
 <p>Neste projeto foi utilizado a Linguagem de Programação Python com SGBD MySql, além de estudos teóricos como cardinalidade, levantamento de requisitos, lógica de programação, boas práticas e ética profissional.</p>
 
-
-<h2>🗂️ Relatório</h2><p>
+<h2>🗂️ Análise de requisitos</h2><p>
 
 Visando manter a melhor comunicação entre o cliente e vendedor,a Loja Big_System deseja criar um sistema para esse atendimento:
+
 
 <b>Funcionário</b><br>
 Sistema funcionário, servirá para os usuários cadastrarem seus dados para terem acesso restrito ao sistema, e com isso o usuário poderá logar no sistema e terá acessos à determinadas funções dependendo do seu nível administrativo.
@@ -58,7 +55,7 @@ Funções: cadastrar/listar/excluir/editar/pesquisar.
 No controle de vendas, quando um cliente realizar sua compra sera emitido um comprovante da venda e a mesma será registrada.
 Funções: adicionar/imprimir.
 </p>
-<p><b>RELATÓRIO</b><br>
+<p><b>Relatório</b><br>
 
 No relatório, serão informados ao usuário, os produtos mais vendidos e menos vendidos, também irá mostrar, quanto o usuário faturou no mês e quais funcionarios obtiveram o melhor desempenho. 
 Funções: ver dados /imprimir.
